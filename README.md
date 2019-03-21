@@ -14,7 +14,7 @@ In traditional `reduce`, the target to be reduced must be an array or array like
 The **Cut Potato** pattern let you reduce anything.
 
 Imagine you are cutting a **potato** into **slices** and put them into a **bowl**, beside you is your 
-**mother**, watching the **remaining potato** and will stop you when she feel it is enough.
+**mother**, watching the **current potato** and will stop you when she feels it is enough.
 
 ## Install
 
